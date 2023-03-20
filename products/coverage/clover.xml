@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1679010951101" clover="3.2.0">
-  <project timestamp="1679010951102" name="All files">
+<coverage generated="1679343606108" clover="3.2.0">
+  <project timestamp="1679343606109" name="All files">
     <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="12" coveredelements="12" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
     <file name="app.js" path="C:\Users\vbarra\devopspipeline\products\src\app.js">
       <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
